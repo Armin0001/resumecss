@@ -1,0 +1,60 @@
+body {
+  color: green;
+  padding: 0;
+  margin: 0;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+nav {
+  text-align: left;
+  word-spacing: 20px;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 0;
+  text-transform: lowercase;
+}
+a:hover {
+  border-style: none none double none;
+  border-color: red;
+}
+div.welcome {
+overflow:hidden;
+height: 700px;
+color: green;
+}
+h1.greeting {
+  position: absolute;
+  padding-left: 610px;
+  padding-top: 350px;
+}
+a {
+  text-decoration: none;
+  border-bottom: none;
+  color: green;
+}
+div.middle {
+  text-align: center;
+  background-color: #004622;
+  padding-bottom: 5px;
+}
+img.panorama {
+  width: 100%;
+  height: 550px;
+}
+form.form {
+  padding-left: 20px;
+  padding-bottom: 50px;
+}
+
+#contact {
+  text-align: center;
+}
+
+footer {
+  background-color: gray;
+  color: white;
+  text-align: center;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
